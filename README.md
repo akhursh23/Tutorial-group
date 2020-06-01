@@ -1,4 +1,4 @@
-# **Project Objectives**
+# **01 - Project Objectives**
 The main objective of this project is to develop an information system which will streamline the existing call management system within the travel company's in-house call management centre (CMC). 
 
 Currently, the CMC faces issues with call routing and flow control for their inbound and outbound calls. To resolve this issue, this project intends to utilise a 'Profiler Tool' to match customers with CMC 'Relationship Managers' (RMs). By integrating this tool as a 'skill matcher' within the proposed system, customers will be readily matched with a RM who can satisfy their unique needs/interests. 
@@ -7,7 +7,7 @@ Additionally, this new system will assist RMs to more effectively tailor the sal
 
 ***
 
-# **Stakeholders**
+# **02 - Stakeholders**
 
 In the major travel company, there are multiple stakeholders who either participate, or have an interest in the activities of the business. These are:
 
@@ -59,7 +59,7 @@ An empathy map is a design tool that assists in better understanding the motivat
 
 ***
 
-# **Design Thinking**
+# **03 - Design Thinking**
 
 ![](https://public-media.interaction-design.org/images/ux-daily/5808b55608af6.jpg)
 
@@ -72,8 +72,6 @@ In order, the 5 stages are:
 ## 1. Empathise
 
 In undergoing the first stage of the design-thinking process, the first stage is empathising with the customer. In doing this, there is no more effective way to gain empathy then through the creation of an empathy map.
-
-***
 
 ![](https://miro.medium.com/max/7582/1*I1ffOWdPWQva3dCMQE-TAQ.png)
 
@@ -116,6 +114,6 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 The final stage of design-thinking, is testing, however, it is important to remember the iterative nature of design-thinking. From testing the complete product, we can redefine problems that were incorrectly identified earlier in the design-thinking process. In doing this, we gain further insight into how users feel, and our empathy with them is strengthened. Adjustments are made to the product to solve any newly found problems. In this project, testing was not undertaken
 
-***
-
 The design-thinking approach cannot be measured as effective, as it is an iterative approach. The nature of design-thinking renders every cycle of the process different. However, in the completion of every cycle, the foundational belief of the design-thinking process is achieved, to gain a greater sense of empathy with the customer.
+
+***
