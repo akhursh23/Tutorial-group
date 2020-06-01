@@ -1,3 +1,10 @@
+# **Project Objectives**
+The main objective of this project is to develop an information system which will streamline the existing call management system within the travel company's in-house call management centre (CMC). 
+
+Currently, the CMC faces issues with call routing and flow control for their inbound and outbound calls. To resolve this issue, this project intends to utilise a 'Profiler Tool' to match customers with CMC 'Relationship Managers' (RMs). By integrating this tool as a 'skill matcher' within the proposed system, customers will be readily matched with a RM who can satisfy their unique needs/interests. 
+
+Additionally, this new system will assist RMs to more effectively tailor the sales process for each customer and improve their sales performance.
+
 # Stakeholders
 
 In the major travel company, there are multiple stakeholders who either participate, or have an interest in the activities of the business. These are:
