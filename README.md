@@ -5,7 +5,9 @@ Currently, the CMC faces issues with call routing and flow control for their inb
 
 Additionally, this new system will assist RMs to more effectively tailor the sales process for each customer and improve their sales performance.
 
-# Stakeholders
+***
+
+# **Stakeholders**
 
 In the major travel company, there are multiple stakeholders who either participate, or have an interest in the activities of the business. These are:
 
@@ -54,3 +56,66 @@ An empathy map is a design tool that assists in better understanding the motivat
 7. Pains: Not meeting deadlines, inefficiencies, difficult clients, uninformed stakeholders
 8. Gains: Educated stakeholders, exceeding deadlines, working, agile software
 9. Motivations: Money, pleasure from developing software
+
+***
+
+# **Design Thinking**
+
+![](https://public-media.interaction-design.org/images/ux-daily/5808b55608af6.jpg)
+
+Design Thinking is a recursive process, wherein businesses attempt to gain a greater sense of empathy with the user. The essence of design-thinking is the recognition and utilization of the customer-centric nature of business. In the understanding, and analysis of the requirements of the business, the team employed design thinking in order to best utilise the customers of the business.
+
+Being a customer service oriented business, we felt it necessary to adopt a design-thinking oriented approach. In adopting this approach, the 5 stages of the design-thinking were immensely important to the completion of the project. In naming these 5 stages, the way in which the stage was undertaken with specific reference to this project will be stated. 
+
+In order, the 5 stages are:
+
+## 1. Empathise
+
+In undergoing the first stage of the design-thinking process, the first stage is empathising with the customer. In doing this, there is no more effective way to gain empathy then through the creation of an empathy map.
+
+***
+
+![](https://miro.medium.com/max/7582/1*I1ffOWdPWQva3dCMQE-TAQ.png)
+
+As seen in the above figure, the empathy map takes an extremely literal approach to 'putting yourself in the customer's shoes'. The empathy map considers the senses of the customer in it's approach, so as to allow for an accurate emulation of the customer as a person, not just as an entity that acts alongside the businesses. This encapsulates an important foundation of design-thinking, to truly understand the customer as a living, breathing person, not just as an entity.
+
+Below is our empathy map for the customer:
+
+### Customer
+1. Customers are current users and potential buyers. Customers wish to have an expeditious process when they purchase holiday packages. 
+2. Customers hope to be matched with an appropriate RM, so that they can purchase an appropriate holiday package. Customers decide their price range or budget, accommodation, destination, itinerary. Customers know they are successful when they have purchased a holiday package
+3. Customers will see advertisements or brochures. Customers will see confirmation from the travel company of the details of their trip. Customers do not see the backend of the process. They are also seeing reviews of various holiday packages
+4. Customer dialogue consists of requests, questions and confirmation.
+5. Customers browse brochures and advertisements, as well as conduct personal research and purchase holiday packages. 
+6. Customers hear referrals and recommendations from their friends/colleagues. They also hear a personal, tailored recommendation from RMs
+7. Pains: General travel anxieties, lengthy buying process, out-of-budget prices and being recommended an inadequate holiday package.
+8. Gains: Quick buying process, more-than-adequate holiday, affordable prices
+9. Motivations: Going on a holiday, getting a perceived cheap deal
+
+## 2. Define
+
+In the definition stage of design-thinking, the goal is to define any identified problems from the empathy map, and rephrase them into solutions. This process actualises a core foundational belief of design-thinking, re-framing problems in a humanistic way, so as to realign our perspective of these problems from a standard business problem, into a human-centric one. This was accomplished through the use of POV statements. The template of a POV statement is as follows. How might we [intended action], for [user], so that [desired effect]. Our POV statements, created from our user stories, are as follows:
+
+***
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV.png)
+
+## 3. Ideate
+
+The ideation phase is essential in the design-thinking process. This phase is where ideas are generated for the problem. This phase of the process is the most abstract, wherein numerous different approaches can be undertaken. Although this phase wasn't undergone in this project, methods of ideation include:
+
+* Brainstorming
+* Worst Possible Idea
+* The SCAMPER method (An acronym for 7 different thought provocations)
+
+## 4. Prototype
+
+Prototyping is the creation of inexpensive, scaled down versions of the product. These prototypes are then accepted, improved upon or rejected based on user experiences. During this phase, constraints about the product become more apparent, and problems begin to be abstracted. The prototype phase acts as as somewhat of an extension to the empathy stage, wherein a greater sense of empathy toward the user is generated. A prototype allows us to understand how real users would behave, think, and feel when interacting with the end product. Due to the nature of the project, prototypes were not created.
+
+## 5. Test
+
+The final stage of design-thinking, is testing, however, it is important to remember the iterative nature of design-thinking. From testing the complete product, we can redefine problems that were incorrectly identified earlier in the design-thinking process. In doing this, we gain further insight into how users feel, and our empathy with them is strengthened. Adjustments are made to the product to solve any newly found problems. In this project, testing was not undertaken
+
+***
+
+The design-thinking approach cannot be measured as effective, as it is an iterative approach. The nature of design-thinking renders every cycle of the process different. However, in the completion of every cycle, the foundational belief of the design-thinking process is achieved, to gain a greater sense of empathy with the customer.
