@@ -117,7 +117,7 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 The final stage of design-thinking, is testing, however, it is important to remember the iterative nature of design-thinking. From testing the complete product, we can redefine problems that were incorrectly identified earlier in the design-thinking process. In doing this, we gain further insight into how users feel, and our empathy with them is strengthened. Adjustments are made to the product to solve any newly found problems. In this project, testing was not undertaken
 
-***
+
 
 The design-thinking approach cannot be measured as effective, as it is an iterative approach. The nature of design-thinking renders every cycle of the process different. However, in the completion of every cycle, the foundational belief of the design-thinking process is achieved, to gain a greater sense of empathy with the customer.
 
