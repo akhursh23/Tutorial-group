@@ -111,7 +111,9 @@ The ideation phase is essential in the design-thinking process. This phase is wh
 
 ## 4. Prototype
 
-Prototyping is the creation of inexpensive, scaled down versions of the product. These prototypes are then accepted, improved upon or rejected based on user experiences. During this phase, constraints about the product become more apparent, and problems begin to be abstracted. The prototype phase acts as as somewhat of an extension to the empathy stage, wherein a greater sense of empathy toward the user is generated. A prototype allows us to understand how real users would behave, think, and feel when interacting with the end product. In this project, prototypes were represented as work products. This includes a Class Diagram, Activity Diagram, Collaborative Diagram and Use Case Diagram
+Prototyping is the creation of inexpensive, scaled down versions of the product. These prototypes are then accepted, improved upon or rejected based on user experiences. During this phase, constraints about the product become more apparent, and problems begin to be abstracted. The prototype phase acts as as somewhat of an extension to the empathy stage, wherein a greater sense of empathy toward the user is generated. A prototype allows us to understand how real users would behave, think, and feel when interacting with the end product. In this project, prototypes were represented as work products. Through the creation of various diagrams, a greater sense of understanding of user issues was developed. Additionally, the scope and intricacies of the system were elaborated upon, highlighting previously unknown aspects of the system. This includes a Class Diagram, Activity Diagram, Collaborative Diagram and multiple Use Case Diagrams.
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Class%20Diagram.png)
 
 ## 5. Test
 
