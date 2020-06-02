@@ -101,6 +101,26 @@ In the definition stage of design-thinking, the goal is to define any identified
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV%20Statements.png)
 
+### Use Cases
+
+UC001: Employee profile
+As a RM, I want to generate a valid employee profile so that I can be matched with an appropriate customer based on my skills.
+
+UC002: Customer profile. 
+As a customer, I want to register my personal details through an online portal so that I can create a customer profile which is ready to be matched with a relationship manager.
+
+UC003: Inbound calls. 
+As a customer, I want to be matched with a suitable RM so that I can rely on their expertise to obtain a suitable holiday package.
+
+UC004: Outbound calls
+As a RM, I want to be matched with an appropriate customer so that I can easily fulfil their needs and achieve a sale. 
+
+UC005: Call logs
+As a RM, I want a database to store call logs, so that I can recall past conversations with customers.
+
+UC006: Email system
+As a RM, I want an email system to support post-sale management, so that I can easily send travel package details.
+
 ## 3. Ideate
 
 The ideation phase is essential in the design-thinking process. This phase is where ideas are generated for the problem. This phase of the process is the most abstract, wherein numerous different approaches can be undertaken. Although this phase wasn't undergone in this project, methods of ideation include:
@@ -161,25 +181,7 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/UC004%20Outbound%20Call.png)
 
-### Use Cases
 
-UC001: Employee profile
-As a RM, I want to generate a valid employee profile so that I can be matched with an appropriate customer based on my skills.
-
-UC002: Customer profile. 
-As a customer, I want to register my personal details through an online portal so that I can create a customer profile which is ready to be matched with a relationship manager.
-
-UC003: Inbound calls. 
-As a customer, I want to be matched with a suitable RM so that I can rely on their expertise to obtain a suitable holiday package.
-
-UC004: Outbound calls
-As a RM, I want to be matched with an appropriate customer so that I can easily fulfil their needs and achieve a sale. 
-
-UC005: Call logs
-As a RM, I want a database to store call logs, so that I can recall past conversations with customers.
-
-UC006: Email system
-As a RM, I want an email system to support post-sale management, so that I can easily send travel package details.
 
 ## 5. Test
 
