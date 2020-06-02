@@ -62,15 +62,15 @@ In the definition stage of design-thinking, the goal is to define any identified
 
 ### User Story Map
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/User%20Story%20Map.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/User%20Story%20Map/User%20Story%20Map.png)
 
 ### POV Statements
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV%20Statements.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV%20Statement/POV%20Statements.png)
 
 ### Use Cases
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Cases.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/Use%20Cases.png)
 
 
 ## 3. Ideate
