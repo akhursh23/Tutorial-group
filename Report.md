@@ -182,6 +182,19 @@ Assumptions may not end up being true. Sometimes, they can be false and it may a
 
 ***
 
+# **06 - Work Products""
+
+The user story map was the first backlog (work product) the team has produced before creating the diagrams. This user story map gave us an entire view of different user stories and their priorities which helped us to create use case narratives later on. 
+After the user story map, the team created Use cases to set the project scope. These display messages between the system and the actors. The use cases were created by combining 2-3 user stories and the team was able to create use case narratives out of the use cases. These were UC001 Create Employee profile, UC002 Create customer profile, UC003 Inbound calls, and UC004 Outbound calls. These use case narratives have provided requirements and actors related to how the system will operate. 
+
+The collaboration diagrams (communication diagram) were created based on UC002 Create Customer Profile and UC004 Outbound call. It shows different messages between objects and the links between the objects. 
+
+The diagram that displays different dynamics and the workflow of the system is the Activity diagram. The two activity diagrams that were produced in this project were based on use cases, UC002 Create Customer profile, and UC004 Outbound call. They model data flows, such as the relationship manager requesting to view information and call management centre providing this information.
+
+Lastly, the Class diagram is a structural diagram which shows the entire structure of the system. It states systems classes such as CMC, Call logs, RM and Account Management portal and describe their attributes, methods, and relationship among these classes. 
+
+***
+
 # **07 - Competitive Advantages & Failures**
 
 ## Competitive Advantages
@@ -219,6 +232,8 @@ The travel agency required swift management of call and sales operations in orde
 The different prototypes that we have designed are collaboration diagrams, activity diagrams, user story map, use case narratives, use case maps and a class diagram. 
 During the development of these prototypes, there were some features that needed clarification. For example, what if the customer didn’t have a profile in order for the CMC to match it with an appropriate RM? Assumptions were made as a team to direct the call to the next available RM and RM will keep a logs and proceed to obtain customer details for future reference if the customer was interested. These types of decisions allowed the prototype developments of the automated systems to be clear and precise. 
 In conclusion, this project report contains prototypes which have proved that the additional systems and objects such as the Target List and Profiler Tool will perform adequately in order to increase efficiency of the operation for RMs, Customers and the Travel Agency itself. The visual presentation of these prototypes will provide a clear depiction of what the team has envisioned these operations will bring to the agency for its profitable operations. 
+
+***
 
 # References
 Alder, G & Benson, D. 2020, diagrams.net, diagramming software, viewed 20 May 2020, 	
