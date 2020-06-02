@@ -164,3 +164,23 @@ The final stage of design-thinking, is testing, however, it is important to reme
 The design-thinking approach cannot be measured as effective, as it is an iterative approach. The nature of design-thinking renders every cycle of the process different. However, in the completion of every cycle, the foundational belief of the design-thinking process is achieved, to gain a greater sense of empathy with the customer.
 
 ***
+
+# **04 - Agile Methodology**
+
+The Agile Methodology is based on repetitive and incremental development instead of a linear approach. It focuses on the splitting of a project into various small groups of tasks called sprints rather than building the entire system at once. It is highly suitable for projects which involve a lot of teamwork and collaboration. The agile method involves gathering a lot of feedback from clients and testers of tasks completed in different sprints which adds accountability to the whole process. The planning, design, development, testing, release, and feedback are in a constant cycle in a defined period of time.
+
+![](https://miro.medium.com/max/940/1*Fzz56Ps_vQSTPHDO9IomXw.png)
+
+The planning of a project through this approach emphasizes deliverables which are prioritized from a business perspective as determined by the client. Each sprint is usually of a specific duration (usually in weeks) with tasks pre-planned and prioritized for the given sprint. This approach allows the development phase to be more flexible as requirements from the client may change over time to which the developers must be ready to adapt. There is a greater sense of transparency between the customer and developers, and the schedule and cost are predictable.
+
+SCRUM, which is an Agile Development Methodology, was chosen for this project alongside design thinking to develop the new information system and deliver new IS capability in a cross-functional manner. It involved group participation from different members for decision-making in the team which Scrum makes certain of. 
+
+## Benefits of using Scrum
+1. It allows for changes to be made after the initial planning stage. It follows the client’s requirements changes as continual feedback is given. The travel company (product owner) and the development team would be aware of any changes during the development process. If the product owner required any new changes, they could be easily implemented during the planning/development stage. Contrarily, if the waterfall development method was used, any new changes would be costly.
+
+2. It is easier to add features that will keep the product up to date with the latest developments in the industry.
+
+3. At the end of each sprint, project priorities are evaluated. This allows clients to add their feedback so that they ultimately get the product they desire. The testing at the end of each sprint ensures that the errors are caught in each cycle.
+
+4. Efficiency and organisation. Cross-functional teams which are self-organised can help the Relationship Managers develop cooperation with the Travel Company.
+
