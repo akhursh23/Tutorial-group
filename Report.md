@@ -51,16 +51,8 @@ As seen in the above figure, the empathy map takes an extremely literal approach
 
 Below is our empathy map for the customer:
 
-### Customer
-1. Customers are current users and potential buyers. Customers wish to have an expeditious process when they purchase holiday packages. 
-2. Customers hope to be matched with an appropriate RM, so that they can purchase an appropriate holiday package. Customers decide their price range or budget, accommodation, destination, itinerary. Customers know they are successful when they have purchased a holiday package
-3. Customers will see advertisements or brochures. Customers will see confirmation from the travel company of the details of their trip. Customers do not see the backend of the process. They are also seeing reviews of various holiday packages
-4. Customer dialogue consists of requests, questions and confirmation.
-5. Customers browse brochures and advertisements, as well as conduct personal research and purchase holiday packages. 
-6. Customers hear referrals and recommendations from their friends/colleagues. They also hear a personal, tailored recommendation from RMs
-7. Pains: General travel anxieties, lengthy buying process, out-of-budget prices and being recommended an inadequate holiday package.
-8. Gains: Quick buying process, more-than-adequate holiday, affordable prices
-9. Motivations: Going on a holiday, getting a perceived cheap deal
+![(https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Customer%20Empathy%20Map.png)
+
 
 ## 2. Define
 
