@@ -266,3 +266,7 @@ This methodology also provided the team an opportunity to continue to develop wi
 The different prototypes that we have designed are collaboration diagram, activity diagrams, user story map, use case narratives, use case maps and class diagram. 
 During the development of these prototypes, there were some features that needed clarification. For example what if the customer doesn’t have a profile in order for the CMC to match it with an appropriate RM? Assumptions were made as a team to direct the call to the next available RM and RM will keep a record of it and proceed to obtain customer detail for future if the customer is interested. These types of decisions allowed the prototype developments of the automated systems to be clear and precise. 
 In conclusion, this project report contains different types of work products and it WAS created by incorporating scrum methodology from agile method. These prototyping have proved that the additional automated systems such as CMC and profiler tools will perform adequately in order to increase efficiency of the operation for RM, Customers and the Agency itself. The visual perspective of the prototypes will provide a clear process of what the team have assumed that these automate operations will bring to the agency for its profitable operation. 
+
+# References
+Alder, G & Benson, D. 2020, diagrams.net, diagramming software, viewed 20 May 2020, 	
+	<https://app.diagrams.net/>
