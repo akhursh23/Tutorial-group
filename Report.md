@@ -184,3 +184,29 @@ SCRUM, which is an Agile Development Methodology, was chosen for this project al
 
 4. Efficiency and organisation. Cross-functional teams which are self-organised can help the Relationship Managers develop cooperation with the Travel Company.
 
+***
+
+# **07 - Competitive Advantages & Failures**
+
+## Competitive Advantages
+The development of this call management system will enable the travel company to more effectively implement their business operations, whilst improving the call flow rate and thereby driving sales revenue. This will enable them to gain a competitive edge against their industry competitors. 
+
+The use of the Profiler Tool as a skill matcher will ensure greater internal and external levels of satisfaction:
+- Relationship Managers (RMs) can tailor their service for each customer and improve their sale technique as each customer profile is easily accessible.
+- Customers can skip traditional onboarding questions over the phone as they can submit these details online, thereby saving time.
+
+Additional benefits from the implementation of this system include, but are not limited to:
+- RMs who conduct outbound calls can successfully market holiday packages to customers through a customised target list which will enable a seamless service experience to the end-customer.
+
+- Inbound calls received by the travel company will be assisted by a CMC that features an automated branch exchange to route calls and minimise costs. 
+
+- Customers will experience shorter waiting times and will be effectively matched with a suitable RM.
+
+- Convenience - customers can create their profile at their own leisure, as an online system would enable 24 hour registration.
+
+## Failures
+The failure of the project will result in cash outflows due to the Research & Development (R&D) costs associated with designing the Call Management System. Failure to implement this new system will hinder the call management centre as inefficient operations. Customers may experience long wait times as call flow rates may be delayed by having to manually match each customer with an appropriate RM. Customers may not be satisfied with their service and may resort to use another travel company, which would mean that the travel company would lose potential sales revenue and market share.
+
+If RMs have to manually input each customer's details into the Travel Company's database, this would would also charge additional time-costs for the travel company.
+
+
