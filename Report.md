@@ -95,7 +95,7 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 #### Create Customer Profile
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Activity%20Diagram%20-%20Create%20Profile%20v2.jpg)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Activity%20Diagrams/Activity%20Diagram%20-%20Create%20Profile%20v2.jpg)
 
 #### Outbound Calls
 
