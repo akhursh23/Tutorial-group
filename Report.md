@@ -51,7 +51,7 @@ As seen in the above figure, the empathy map takes an extremely literal approach
 
 Below is our empathy map for the customer:
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Customer%20Empathy%20Map.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/Customer%20Empathy%20Map.png)
 
 
 ## 2. Define
