@@ -17,7 +17,7 @@ In the major travel company, there are multiple stakeholders who either particip
 *  Customer
 *  Relationship Manager (RM)
 *  Project Developer
-*  Profiler
+*  Profiler Tool
 *  Target List (Potential Customers)
 *  Call Distributor (Call Management Centre)
 ***
