@@ -186,6 +186,21 @@ SCRUM, which is an Agile Development Methodology, was chosen for this project al
 
 ***
 
+# **05 - Assumptions**
+
+According to PMBOK® Guide 5th Edition, Project Assumption is “A factor in the planning process that is considered to be true, real or certain often without any proof or demonstration”.
+
+An assumption is what you believe to be true. These are anticipated events or circumstances that are expected during your project’s life cycle. You make assumptions based on your experience or the information available on hand.
+
+Assumptions may not end up being true. Sometimes, they can be false and it may affect your project. This adds risk to the project. In the development process of projects, there are many things that are meant to be assumed like the pre-existing of a certain feature in a system. This project too has certain assumptions made by us which are as follows:
+* We have assumed that a certain profiler tool exists within the system which lets customers sign up and create a profile through which we can suggest them appropriate packages.
+* We have assumed that whenever an RM reaches out to a customer, we let them know that the call will be recorded for quality and training purposes.
+* We have assumed that there exist basic features to which we are providing upgrades.
+* We assume that customer info is encrypted and is secure so that the customer data is not available to everyone.
+* We have assumed that after a sale has been made, flights and accommodation are handled by a third-party.
+
+***
+
 # **07 - Competitive Advantages & Failures**
 
 ## Competitive Advantages
