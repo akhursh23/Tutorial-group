@@ -121,7 +121,7 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 ### Activity Diagram
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Activity%20create%20profile%20v2.jpg)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Activity%20Diagram%20-%20Create%20Profile%20v2.jpg)
 
 ***
 
@@ -129,11 +129,11 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 #### Create Customer Profile
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Collaboration%20Diagram%20v2%20-%20Create%20customer%20profile.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Collaboration%20Diagrams/Collaboration%20Diagram%20v2%20-%20Create%20customer%20profile.png)
 
 #### Outbound Calls
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Collaboration%20Diagram%20-%20Outbound%20calls.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Collaboration%20Diagrams/Collaboration%20Diagram%20-%20Outbound%20calls.png)
 
 ***
 
