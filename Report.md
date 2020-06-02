@@ -125,7 +125,7 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 ***
 
-### Collaboratiion Diagrams
+### Collaboration Diagrams
 
 #### Create Customer Profile
 
