@@ -45,9 +45,7 @@ In order, the 5 stages are:
 
 In undergoing the first stage of the design-thinking process, the first stage is empathising with the customer. In doing this, there is no more effective way to gain empathy then through the creation of an empathy map.
 
-![](https://miro.medium.com/max/7582/1*I1ffOWdPWQva3dCMQE-TAQ.png)
-
-As seen in the above figure, the empathy map takes an extremely literal approach to 'putting yourself in the customer's shoes'. The empathy map considers the senses of the customer in it's approach, so as to allow for an accurate emulation of the customer as a person, not just as an entity that acts alongside the businesses. This encapsulates an important foundation of design-thinking, to truly understand the customer as a living, breathing person, not just as an entity.
+The empathy map takes an extremely literal approach to 'putting yourself in the customer's shoes'. The empathy map considers the senses of the customer in it's approach, so as to allow for an accurate emulation of the customer as a person, not just as an entity that acts alongside the businesses. This encapsulates an important foundation of design-thinking, to truly understand the customer as a living, breathing person, not just as an entity.
 
 Below is our empathy map for the customer:
 
