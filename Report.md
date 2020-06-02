@@ -99,7 +99,7 @@ In the definition stage of design-thinking, the goal is to define any identified
 
 ***
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV%20Statements.png)
 
 ## 3. Ideate
 
