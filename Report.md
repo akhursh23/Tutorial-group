@@ -87,7 +87,7 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 ### Class Diagram
 
-![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Class%20Diagram.png)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Class%20Diagram/Class%20Diagram.png)
 
 ***
 
