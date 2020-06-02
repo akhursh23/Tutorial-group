@@ -56,13 +56,19 @@ Below is our empathy map for the customer:
 
 ## 2. Define
 
-In the definition stage of design-thinking, the goal is to define any identified problems from the empathy map, and rephrase them into solutions. This process actualises a core foundational belief of design-thinking, re-framing problems in a humanistic way, so as to realign our perspective of these problems from a standard business problem, into a human-centric one. This was accomplished through the use of POV statements. The template of a POV statement is as follows. How might we [intended action], for [user], so that [desired effect]. Our POV statements, created from our user stories, are as follows:
+In the definition stage of design-thinking, the goal is to define any identified problems from the empathy map, and rephrase them into solutions. This process actualises a core foundational belief of design-thinking, re-framing problems in a humanistic way, so as to realign our perspective of these problems from a standard business problem, into a human-centric one. This was accomplished through the use of POV statements. The template of a POV statement is as follows. How might we [intended action], for [user], so that [desired effect]. Our user story map, POV Statements and use cases are:
 
 ***
 
+### User Story Map
+
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/User%20Story%20Map.png)
 
+### POV Statements
+
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV%20Statements.png)
+
+### Use Cases
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Cases.png)
 
