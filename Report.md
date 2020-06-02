@@ -205,8 +205,7 @@ If RMs have to manually input each customer's details into the Travel Company's 
 
 # **08 - Conclusion**
 
-The travel agency required swift management of call and sales operations in order to increase its efficiency. Therefore, the developers have decided to work with SCRUM methodology which is a part of the agile methodology. It has allowed the team to undertake design thinking and create different types of work products in a short period of time to ensure certainty of the new business operations.
-This methodology also provided the team an opportunity to continue to develop with transparency and ensure that the client is aware of the development stages.
+The travel agency required swift management of call and sales operations in order to increase its efficiency. Therefore, the developers have decided to work with SCRUM methodology which is a part of the agile methodology. It has allowed the team to undertake design thinking and create different types of work products in a short period of time to ensure certainty of the new business operations. This methodology also provided the team an opportunity to continue to develop with transparency and ensure that the client was aware of the development stages.
 
 The different prototypes that we have designed are collaboration diagrams, activity diagrams, user story map, use case narratives, use case maps and a class diagram. 
 During the development of these prototypes, there were some features that needed clarification. For example, what if the customer didn’t have a profile in order for the CMC to match it with an appropriate RM? Assumptions were made as a team to direct the call to the next available RM and RM will keep a logs and proceed to obtain customer details for future reference if the customer was interested. These types of decisions allowed the prototype developments of the automated systems to be clear and precise. 
