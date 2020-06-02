@@ -117,9 +117,13 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Class%20Diagram.png)
 
+***
+
 ### Activity Diagram
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Activity%20create%20profile%20v2.jpg)
+
+***
 
 ### Collaborative Diagrams
 
@@ -130,6 +134,14 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 #### Outbound Calls
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Collaboration%20Diagram%20-%20Outbound%20calls.png)
+
+***
+
+### Use Case Diagrams
+
+#### Create Employee Profile
+
+![](blob:null/679ed677-5284-4990-a9b6-6a68c05dcb6c)
 
 ## 5. Test
 
