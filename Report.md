@@ -141,7 +141,19 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 
 #### Create Employee Profile
 
-![](blob:null/679ed677-5284-4990-a9b6-6a68c05dcb6c)
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/UC001%20Create%20Employee%20Profile.png)
+
+#### Create Customer Profile
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/UC002%20Create%20Customer%20Profile.png)
+
+#### Inbound Call
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/UC003%20Inbound%20Call.png)
+
+#### Outbound Call
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/UC004%20Outbound%20Call.png)
 
 ## 5. Test
 
