@@ -101,25 +101,6 @@ In the definition stage of design-thinking, the goal is to define any identified
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/POV%20Statements.png)
 
-UC001: Employee profile
-As a RM, I want to generate a valid employee profile so that I can be matched with an appropriate customer based on my skills.
-
-UC002: Customer profile. 
-As a customer, I want to register my personal details through an online portal so that I can create a customer profile which is ready to be matched with a relationship manager.
-
-UC003: Inbound calls. 
-As a customer, I want to be matched with a suitable RM so that I can rely on their expertise to obtain a suitable holiday package.
-
-UC004: Outbound calls
-As a RM, I want to be matched with an appropriate customer so that I can easily fulfil their needs and achieve a sale. 
-
-UC005: Call logs
-As a RM, I want a database to store call logs, so that I can recall past conversations with customers.
-
-UC006: Email system
-As a RM, I want an email system to support post-sale management, so that I can easily send travel package details.
-
-
 ## 3. Ideate
 
 The ideation phase is essential in the design-thinking process. This phase is where ideas are generated for the problem. This phase of the process is the most abstract, wherein numerous different approaches can be undertaken. Although this phase wasn't undergone in this project, methods of ideation include:
@@ -179,6 +160,26 @@ Prototyping is the creation of inexpensive, scaled down versions of the product.
 #### Outbound Call
 
 ![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Use%20Case%20Narratives%20%26%20Maps/UC004%20Outbound%20Call.png)
+
+### Use Cases
+
+UC001: Employee profile
+As a RM, I want to generate a valid employee profile so that I can be matched with an appropriate customer based on my skills.
+
+UC002: Customer profile. 
+As a customer, I want to register my personal details through an online portal so that I can create a customer profile which is ready to be matched with a relationship manager.
+
+UC003: Inbound calls. 
+As a customer, I want to be matched with a suitable RM so that I can rely on their expertise to obtain a suitable holiday package.
+
+UC004: Outbound calls
+As a RM, I want to be matched with an appropriate customer so that I can easily fulfil their needs and achieve a sale. 
+
+UC005: Call logs
+As a RM, I want a database to store call logs, so that I can recall past conversations with customers.
+
+UC006: Email system
+As a RM, I want an email system to support post-sale management, so that I can easily send travel package details.
 
 ## 5. Test
 
@@ -265,6 +266,3 @@ This methodology also provided the team an opportunity to continue to develop wi
 The different prototypes that we have designed are collaboration diagram, activity diagrams, user story map, use case narratives, use case maps and class diagram. 
 During the development of these prototypes, there were some features that needed clarification. For example what if the customer doesn’t have a profile in order for the CMC to match it with an appropriate RM? Assumptions were made as a team to direct the call to the next available RM and RM will keep a record of it and proceed to obtain customer detail for future if the customer is interested. These types of decisions allowed the prototype developments of the automated systems to be clear and precise. 
 In conclusion, this project report contains different types of work products and it WAS created by incorporating scrum methodology from agile method. These prototyping have proved that the additional automated systems such as CMC and profiler tools will perform adequately in order to increase efficiency of the operation for RM, Customers and the Agency itself. The visual perspective of the prototypes will provide a clear process of what the team have assumed that these automate operations will bring to the agency for its profitable operation. 
-
-
-
