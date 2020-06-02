@@ -111,7 +111,37 @@ The ideation phase is essential in the design-thinking process. This phase is wh
 
 ## 4. Prototype
 
-Prototyping is the creation of inexpensive, scaled down versions of the product. These prototypes are then accepted, improved upon or rejected based on user experiences. During this phase, constraints about the product become more apparent, and problems begin to be abstracted. The prototype phase acts as as somewhat of an extension to the empathy stage, wherein a greater sense of empathy toward the user is generated. A prototype allows us to understand how real users would behave, think, and feel when interacting with the end product. Due to the nature of the project, prototypes were not created.
+Prototyping is the creation of inexpensive, scaled down versions of the product. These prototypes are then accepted, improved upon or rejected based on user experiences. During this phase, constraints about the product become more apparent, and problems begin to be abstracted. The prototype phase acts as as somewhat of an extension to the empathy stage, wherein a greater sense of empathy toward the user is generated. A prototype allows us to understand how real users would behave, think, and feel when interacting with the end product. In this project, prototypes were represented as work products. Through the creation of various diagrams, a greater sense of understanding of user issues was developed. Additionally, the scope and intricacies of the system were elaborated upon, highlighting previously unknown aspects of the system. This includes a Class Diagram, Activity Diagram, Collaborative Diagrams and multiple Use Case Diagrams.
+
+### Class Diagram
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Class%20Diagram.png)
+
+***
+
+### Activity Diagram
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Activity%20create%20profile%20v2.jpg)
+
+***
+
+### Collaborative Diagrams
+
+#### Create Customer Profile
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Collaboration%20Diagram%20v2%20-%20Create%20customer%20profile.png)
+
+#### Outbound Calls
+
+![](https://raw.githubusercontent.com/akhursh23/Tutorial-group-2--Fri-1-30pm-/master/Work%20Products/Collaboration%20Diagram%20-%20Outbound%20calls.png)
+
+***
+
+### Use Case Diagrams
+
+#### Create Employee Profile
+
+![](blob:null/679ed677-5284-4990-a9b6-6a68c05dcb6c)
 
 ## 5. Test
 
