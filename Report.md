@@ -193,18 +193,19 @@ According to PMBOK® Guide 5th Edition, Project Assumption is “A factor in the
 An assumption is what you believe to be true. These are anticipated events or circumstances that are expected during your project’s life cycle. You make assumptions based on your experience or the information available on hand.
 
 Assumptions may not end up being true. Sometimes, they can be false and it may affect your project. This adds risk to the project. In the development process of projects, there are many things that are meant to be assumed like the pre-existing of a certain feature in a system. This project too has certain assumptions made by us which are as follows:
-* We have assumed that a certain profiler tool exists within the system which lets customers sign up and create a profile through which we can suggest them appropriate packages.
-* We have assumed that whenever an RM reaches out to a customer, we let them know that the call will be recorded for quality and training purposes.
+* We have assumed that a 'Profiler Tool' exists within the new system which assists customer with registration and profile creation through which we can suggest them appropriate packages.
+* We have assumed that whenever an RM reaches out to a customer, they will let them know that the call will be recorded for quality and training purposes.
 * We have assumed that there exist basic features to which we are providing upgrades.
-* We assume that customer info is encrypted and is secure so that the customer data is not available to everyone.
-* We have assumed that after a sale has been made, flights and accommodation are handled by a third-party.
+* We assume that customer information is encrypted and is secure so that the customer data is not available to everyone.
+* We have assumed that after a sale has been made (post-sale), flights and accommodation are handled by a third-party.
+* We have assumed that RMs store call logs after every conversation on the phone. 
 
 ***
 
 # **07 - Competitive Advantages & Failures**
 
 ## Competitive Advantages
-The development of this call management system will enable the travel company to more effectively implement their business operations, whilst improving the call flow rate and thereby driving sales revenue. This will enable them to gain a competitive edge against their industry competitors. 
+The development of this call management system will enable the travel company to enhance its existing business operations, whilst improving the call flow rate and thereby driving sales revenue. This will enable them to gain a competitive edge against their industry competitors. 
 
 The use of the Profiler Tool as a skill matcher will ensure greater internal and external levels of satisfaction:
 - Relationship Managers (RMs) can tailor their service for each customer and improve their sale technique as each customer profile is easily accessible.
@@ -215,14 +216,19 @@ Additional benefits from the implementation of this system include, but are not 
 
 - Inbound calls received by the travel company will be assisted by a CMC that features an automated branch exchange to route calls and minimise costs. 
 
-- Customers will experience shorter waiting times and will be effectively matched with a suitable RM.
+- Customers will experience shorter waiting times and will be effectively matched with a suitable RM. This system will prioritise customers based on the caller's value and direct higher-score customers to a RM who can suit their needs.
 
-- Convenience - customers can create their profile at their own leisure, as an online system would enable 24 hour registration.
+- Convenience - customers can create their profile at their own leisure, as an online system would enable 24-hour registration.
+
+- An interactive voice response unit would assist with managing customers during busy times, enabling RMS to service customer at the earliest available opportunity. You can also save on time-costs as this voice unit can also provide options for customers to select/explain their reasoning for calls and personalise their queries. This will enable calls to be routed to an appropriate RM in a timely manner.
+
+- Call logs will be stored within the system, which can easily be accessed by RMs to obtain information from previous conversations. This will be useful for RMs because they can quickly gain an understanding of the customer's needs. Customers will also benefit from this as they may not have to repeat their past queries.
+
 
 ## Failures
 The failure of the project will result in cash outflows due to the Research & Development (R&D) costs associated with designing the Call Management System. Failure to implement this new system will hinder the call management centre as inefficient operations. Customers may experience long wait times as call flow rates may be delayed by having to manually match each customer with an appropriate RM. Customers may not be satisfied with their service and may resort to use another travel company, which would mean that the travel company would lose potential sales revenue and market share.
 
-If RMs have to manually input each customer's details into the Travel Company's database, this would would also charge additional time-costs for the travel company.
+If RMs have to manually input each customer's details into the Travel Company's database, this would also charge additional time-costs for the travel company.
 
 ***
 
