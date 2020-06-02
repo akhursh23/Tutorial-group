@@ -182,9 +182,10 @@ Assumptions may not end up being true. Sometimes, they can be false and it may a
 
 ***
 
-# **06 - Work Products""
+# **06 - Work Products**
 
-The user story map was the first backlog (work product) the team has produced before creating the diagrams. This user story map gave us an entire view of different user stories and their priorities which helped us to create use case narratives later on. 
+The user story map was the first backlog (work product) the team has produced before creating the diagrams. This user story map gave us an entire view of different user stories and their priorities which helped us to create use case narratives later on.
+
 After the user story map, the team created Use cases to set the project scope. These display messages between the system and the actors. The use cases were created by combining 2-3 user stories and the team was able to create use case narratives out of the use cases. These were UC001 Create Employee profile, UC002 Create customer profile, UC003 Inbound calls, and UC004 Outbound calls. These use case narratives have provided requirements and actors related to how the system will operate. 
 
 The collaboration diagrams (communication diagram) were created based on UC002 Create Customer Profile and UC004 Outbound call. It shows different messages between objects and the links between the objects. 
